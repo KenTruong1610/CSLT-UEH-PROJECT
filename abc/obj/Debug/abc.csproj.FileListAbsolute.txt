@@ -1,0 +1,7 @@
+C:\Users\Việt Tùng\source\repos\abc\abc\bin\Debug\abc.exe.config
+C:\Users\Việt Tùng\source\repos\abc\abc\bin\Debug\abc.exe
+C:\Users\Việt Tùng\source\repos\abc\abc\bin\Debug\abc.pdb
+C:\Users\Việt Tùng\source\repos\abc\abc\obj\Debug\abc.csproj.AssemblyReference.cache
+C:\Users\Việt Tùng\source\repos\abc\abc\obj\Debug\abc.csproj.CoreCompileInputs.cache
+C:\Users\Việt Tùng\source\repos\abc\abc\obj\Debug\abc.exe
+C:\Users\Việt Tùng\source\repos\abc\abc\obj\Debug\abc.pdb
